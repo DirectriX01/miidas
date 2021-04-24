@@ -7,9 +7,15 @@ Problem statement:
 
 * >Finally, take the following dataset(`mnistPart1.zip`), train on this dataset and provide test accuracy on the MNIST test set, using the same test split from part 2. Train using scratch random initialization and using the pretrained network part 1. Do the same analysis as 2 and report what happens this time. Try and do qualitative analysis of what's different in this dataset. Please save your model checkpoints.
 
-### Developing Environment
+## Developing Environment
 Everything was trained on Google colab with GPU support. You can run the notebooks by clicking on <a href="" target="_blank"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/> </a> button on the top of the ipynb notebook. 
 Note if the notebook fails to open up, please use [notebook-viewer](https://nbviewer.jupyter.org), and paste the corresponding notebook link.
+### Notebook training details
+|          Notebook          |                                                      Details                                                      |
+|:--------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| A1_Part1.ipynb             | Part-1 of the assignment, extract  trainPart1 to your drive in('~/train')                                         |
+| A1_Part1_trainingSet.ipynb | Part-1 with training data,just upload testPart1 to your drive                                                     |
+| Part2_3.ipynb              | Part 2&3 of the assignment, extract {0 1,..9} classes folder in ('~/train2')  Also upload mnistTask to your drive |
 
 ## Model Dictionary for Part2:
 
