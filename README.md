@@ -30,7 +30,5 @@ Note if the notebook fails to open up, please use [notebook-viewer](https://nbvi
 
 ### Bibiliography: 
 
-* [Alexnet with Softmax](https://medium.com/analytics-vidhya/multi-class-image-classification-using-alexnet-deep-learning-network-implemented-in-keras-api-c9ae7bc4c05f)
-
 * Various Stackoverflow answers
 * Some codes were borrowed from Andrew's Ng Deep learning Specialization
